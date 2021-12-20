@@ -1,0 +1,26 @@
+
+	
+	
+#bg-image-01 { 
+  position: relative; 
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  background-image: url('../images/hawaii.jpg');
+  background-size: cover;
+}
+	#bg-image-01 section{
+		margin-top: 200px
+	}
+	
+	
+footer{
+	background: #1c3846;
+}
+footer ul{
+	margin: 0 auto !important;
+}
+footer a{
+	color: #FFF !important;
+	padding: 10px 30px !important;
+}
